@@ -1,4 +1,4 @@
-# FCKeditor
+# FCKeditor plug-in to count the characters and words inside the editor
 
 ## Installing
 
